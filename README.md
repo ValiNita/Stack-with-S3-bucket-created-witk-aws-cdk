@@ -2,10 +2,15 @@
 cdk init app --language python
 
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 python -m pip install -r requirements.txt
+
 pip install aws-cdk.aws-s3
+
 2. Am adaugat in app.py :
+
 from aws_cdk import core
 from aws_cdk import aws_s3 as s3
 
