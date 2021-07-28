@@ -1,0 +1,7 @@
+README.md
+setup.py
+newfolder/newfolder.egg-info/PKG-INFO
+newfolder/newfolder.egg-info/SOURCES.txt
+newfolder/newfolder.egg-info/dependency_links.txt
+newfolder/newfolder.egg-info/requires.txt
+newfolder/newfolder.egg-info/top_level.txt
